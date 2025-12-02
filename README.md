@@ -4,7 +4,7 @@
 Project 2
 
 ## Student Name
-Pushpinder Singh, Jashanpreet Singh, Jphny Garg
+Pushpinder Singh, Jashanpreet Singh, Johny Garg
 
 ## Group Number
 Group 02
